@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="mvNVDFUF2-WBWyTd6EQy">
+    <mxGraphModel dx="774" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wd8Be2A_LXcCCNbmzI4G-2" edge="1" parent="1" source="wd8Be2A_LXcCCNbmzI4G-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wd8Be2A_LXcCCNbmzI4G-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd8Be2A_LXcCCNbmzI4G-3" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="275" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wd8Be2A_LXcCCNbmzI4G-4" edge="1" parent="1" source="wd8Be2A_LXcCCNbmzI4G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wd8Be2A_LXcCCNbmzI4G-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd8Be2A_LXcCCNbmzI4G-5" parent="1" style="whiteSpace=wrap;html=1;verticalAlign=middle;" value="Buka daftar peralatan" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="wd8Be2A_LXcCCNbmzI4G-6" edge="1" parent="1" source="wd8Be2A_LXcCCNbmzI4G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wd8Be2A_LXcCCNbmzI4G-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wd8Be2A_LXcCCNbmzI4G-7" parent="1" style="whiteSpace=wrap;html=1;" value="Lihat informasi ketersediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="wd8Be2A_LXcCCNbmzI4G-8" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="275" y="440" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
