@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="fDvkFrrFjoRclJ-MvPw6">
+    <mxGraphModel dx="933" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gQ-sO0134bVbHa86tzXn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="720" width="480" x="174" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ-sO0134bVbHa86tzXn-2" parent="1" style="whiteSpace=wrap;html=1;" value="Sistem Informasi Akademik" vertex="1">
+          <mxGeometry height="60" width="170" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ-sO0134bVbHa86tzXn-22" edge="1" parent="1" source="gQ-sO0134bVbHa86tzXn-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.304;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="gQ-sO0134bVbHa86tzXn-1" value="">
+          <mxGeometry relative="1" x="-0.8365" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ-sO0134bVbHa86tzXn-8" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ-sO0134bVbHa86tzXn-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Lihat jadwal kuliah" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ-sO0134bVbHa86tzXn-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Kelola jadwal kuliah" vertex="1">
+          <mxGeometry height="80" width="120" x="390" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ-sO0134bVbHa86tzXn-24" edge="1" parent="1" source="gQ-sO0134bVbHa86tzXn-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="gQ-sO0134bVbHa86tzXn-20" value="">
+          <mxGeometry relative="1" x="-0.7034" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ-sO0134bVbHa86tzXn-21" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="740" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

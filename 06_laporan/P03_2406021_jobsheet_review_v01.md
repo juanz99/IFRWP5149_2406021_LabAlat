@@ -1,0 +1,2 @@
+Pemodelan kebutuhan fungsional dilakukan untuk dua domain kasus, yaitu Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium (LAB) sebagai studi kasus terbimbing dan Sistem Informasi Akademik - Pengajuan KRS (SIA) sebagai tugas praktik mandiri
+Seluruh kebutuhan fungsional yang ditetapkan dalam skenario telah dipetakan secara konsisten
